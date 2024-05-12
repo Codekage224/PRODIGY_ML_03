@@ -13,7 +13,8 @@ To Use the Data set, Use the Kaggle API Token (A JSON FILE NAMED="kaggle.json"),
 ### Steps involved are:-
 1) Extracting the data from the downloaded zip file
 2) Resize all the images to a suitable dimension (50 X 50- in mycase)
-3) Shuffle the data for a round exposure of both Dogs and cats.
-4) Split the data into both Train and Test data.
-5) Fit the model with Train Data and train it.
-6) now Fit the model with Test Data and See the results.
+3) import no.of images according your wish , i chose 3000 for cats and Dogs each
+4) Shuffle the data for a round exposure of both Dogs and cats.
+5) Split the data into both Train and Test data.
+6) Fit the model with Train Data and train it.
+7) now Fit the model with Test Data and See the results.
